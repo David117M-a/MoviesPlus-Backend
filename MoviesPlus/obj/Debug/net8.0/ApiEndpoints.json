@@ -1,0 +1,134 @@
+[
+  {
+    "ContainingType": "MoviesPlus.Controllers.ActorsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Actors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesPlus.Controllers.ActorsController",
+    "Method": "Create",
+    "RelativePath": "api/Actors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "actor",
+        "Type": "MoviesPlus.Dto.ActorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesPlus.Controllers.ActorsController",
+    "Method": "Delete",
+    "RelativePath": "api/Actors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesPlus.Controllers.MoviesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Movies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesPlus.Controllers.MoviesController",
+    "Method": "Create",
+    "RelativePath": "api/Movies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movieDto",
+        "Type": "MoviesPlus.Dto.MovieDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesPlus.Controllers.MoviesController",
+    "Method": "Delete",
+    "RelativePath": "api/Movies/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesPlus.Controllers.MoviesController",
+    "Method": "GetAllByActor",
+    "RelativePath": "api/Movies/byActor/{actorId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "actorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesPlus.Controllers.MoviesController",
+    "Method": "GetAllByGenre",
+    "RelativePath": "api/Movies/byGenre/{genre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesPlus.Controllers.MoviesController",
+    "Method": "GetAllByTitle",
+    "RelativePath": "api/Movies/byTitle/{title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet projects\\MoviesPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF702118-88A9-4E87-9D05-41951C5200BA}|Core\\Core.csproj|d:\\dotnet projects\\moviesplus\\core\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF702118-88A9-4E87-9D05-41951C5200BA}|Core\\Core.csproj|solutionrelative:core\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A16FBB4-A8CD-4959-8FAC-560835CF3FCE}|MoviesPlus\\MoviesPlus.csproj|d:\\dotnet projects\\moviesplus\\moviesplus\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A16FBB4-A8CD-4959-8FAC-560835CF3FCE}|MoviesPlus\\MoviesPlus.csproj|solutionrelative:moviesplus\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF702118-88A9-4E87-9D05-41951C5200BA}|Core\\Core.csproj|d:\\dotnet projects\\moviesplus\\core\\contracts\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF702118-88A9-4E87-9D05-41951C5200BA}|Core\\Core.csproj|solutionrelative:core\\contracts\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A16FBB4-A8CD-4959-8FAC-560835CF3FCE}|MoviesPlus\\MoviesPlus.csproj|d:\\dotnet projects\\moviesplus\\moviesplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A16FBB4-A8CD-4959-8FAC-560835CF3FCE}|MoviesPlus\\MoviesPlus.csproj|solutionrelative:moviesplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF702118-88A9-4E87-9D05-41951C5200BA}|Core\\Core.csproj|d:\\dotnet projects\\moviesplus\\core\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF702118-88A9-4E87-9D05-41951C5200BA}|Core\\Core.csproj|solutionrelative:core\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\MoviesPlus\\MoviesPlus\\Program.cs",
+              "RelativeDocumentMoniker": "MoviesPlus\\Program.cs",
+              "ToolTip": "D:\\Dotnet projects\\MoviesPlus\\MoviesPlus\\Program.cs",
+              "RelativeToolTip": "MoviesPlus\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T00:45:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMoviesService.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\MoviesPlus\\Core\\Contracts\\Services\\IMoviesService.cs",
+              "RelativeDocumentMoniker": "Core\\Contracts\\Services\\IMoviesService.cs",
+              "ToolTip": "D:\\Dotnet projects\\MoviesPlus\\Core\\Contracts\\Services\\IMoviesService.cs",
+              "RelativeToolTip": "Core\\Contracts\\Services\\IMoviesService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawBAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T00:18:48.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\MoviesPlus\\Core\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\Dotnet projects\\MoviesPlus\\Core\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Core\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T00:03:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesService.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\MoviesPlus\\Core\\Services\\MoviesService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\MoviesService.cs",
+              "ToolTip": "D:\\Dotnet projects\\MoviesPlus\\Core\\Services\\MoviesService.cs",
+              "RelativeToolTip": "Core\\Services\\MoviesService.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAIwIoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T23:43:57.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\MoviesPlus\\MoviesPlus\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MoviesPlus\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Dotnet projects\\MoviesPlus\\MoviesPlus\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MoviesPlus\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAwwFwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:03:45.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
